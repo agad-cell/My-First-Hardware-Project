@@ -1,14 +1,20 @@
 ## Bill of Materials
 
-**Component**   **Average Price (PKR)**
+**Components** -------------  **Average Price (PKR)**
 
-Arduino Uno     1800-3000
-Breadboard      200-500
-LDR sensor      50-150
-LED             10-30
-Jumper Wires    150-400
-Resistor        5-20
-USB Cable       150-300
+Arduino Uno  ----            1800-3000
+
+Breadboard   -----              200-500
+
+LDR sensor    -----              50-150
+
+LED            ----              10-30
+
+Jumper Wires     ----            150-400
+
+Resistor      ----                  5-20
+
+USB Cable       ----              150-300
 
 
 
