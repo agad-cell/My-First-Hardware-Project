@@ -23,37 +23,4 @@ I made this project for learning and I don’t think there was any very specific
 **Project Demo**
 https://youtube.com/shorts/smRmW8G7RD8?feature=share
 
-
-
-## Bill of Materials
-
-**Components** -------------  **Average Price (PKR)**
-
-Arduino Uno  ----            1800-3000
-
-Breadboard   -----              200-500
-
-LDR sensor    -----              50-150
-
-LED            ----              10-30
-
-Jumper Wires     ----            150-400
-
-Resistor      ----                  5-20
-
-USB Cable       ----              150-300
-
-
-
-<img width="720" height="1600" alt="WhatsApp Image 2026-08-02 at 1 12 26 PM" src="https://github.com/user-attachments/assets/851d6fb9-fbee-4415-ae7c-a9f65c1de4ea" />
-<img width="750" height="519" alt="WhatsApp Image 2026-08-02 at 1 12 28 PM (2)" src="https://github.com/user-attachments/assets/2b9ce561-0155-4ec9-a03f-fdbcf717f79f" />
-
-<img width="989" height="676" alt="WhatsApp Image 2026-08-02 at 1 12 28 PM (1)" src="https://github.com/user-attachments/assets/0785aeac-1a7e-4c1a-86b6-a7fc2b1dd81e" />
-
-<img width="870" height="720" alt="WhatsApp Image 2026-08-02 at 1 12 28 PM" src="https://github.com/user-attachments/assets/20f4184c-f952-4667-a0b6-c6c53a5a7363" />
-
-<img width="374" height="269" alt="WhatsApp Image 2026-08-02 at 1 12 27 PM" src="https://github.com/user-attachments/assets/547ecf9f-6fa1-482a-9810-3b8d8632b41b" />
-<img width="720" height="632" alt="WhatsApp Image 2026-08-02 at 1 12 26 PM (1)" src="https://github.com/user-attachments/assets/0d660769-0967-4d18-9ada-ae6e120973ee" />
-
-
-**Note**: These components were part of a complete hardware starter kit that cost around PKR 5999, so the prices below are only average estimated prices in Pakistan. these r the images i don't know the separate price of each so i have added these average prices
+**AI use note**: I used AI for translation
